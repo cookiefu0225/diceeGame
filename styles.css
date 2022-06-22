@@ -1,0 +1,52 @@
+body {
+    background-color: #94B49F;
+    text-align: center;
+}
+
+.trophy {
+    color: gold;
+}
+
+/* main section */
+
+#main {
+    margin-bottom: 5rem;
+}
+
+.title {
+    font-size: 7rem;
+    font-family: "Permanent Marker";
+}
+
+.row {
+    margin: 5rem 0;
+}
+
+.dices {
+    padding: 3% 20%;
+}
+
+.refresh-btn {
+    padding: 1% 6%;
+}
+
+/* footer section */
+
+#footer {
+    background-color: #efefef;
+}
+
+.href-icon {
+    color: #000;
+}
+
+.contact {
+    margin-bottom: 2rem;
+    padding: 2% 40% 0;
+}
+
+.copyright {
+    margin-bottom: 0;
+    font-size: 0.6rem;
+    padding-bottom: 1rem;
+}
